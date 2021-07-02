@@ -1,0 +1,16 @@
+{
+    "build_number": 1,
+    "callback_url": "https://login.xsolla.com/api/blank",
+    "custom_launcher_version": "1.0",
+    "ga_tracking_id": "UA-117660045-1",
+    "game_autoupdate": false,
+    "hide_email": false,
+    "hide_launcher_in_tray": true,
+    "hide_peer_seed_info": true,
+    "launcher_project_id": "b9c1bb37-c595-4dd5-bc7a-b66e76edfa2c",
+    "link_community": "https://soleil-des-chats.wixsite.com/soleil-des-chats-com",
+    "link_support": "https://soleil-des-chats.wixsite.com/soleil-des-chats-com",
+    "login_project_id": "37cce0b2-9a0d-11eb-bc85-42010aa80004",
+    "product_name": "Game Plane",
+    "use_local_config": true
+}
